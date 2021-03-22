@@ -14,3 +14,5 @@ means_extant.Rdata: Procrustes coordinates for extant dataset (can be open in R 
 phy.Rdata: Phylogeny for the entire dataset (can be open in R and Rstudio, see notes in Supplementary Information)
 
 phy_extant.Rdata: Phylogeny for the extant dataset (can be open in R and Rstudio)
+
+3D meshes are available on Phenome10K (http://phenome10k.org/), with some scans additional available on MorphoSource, DigiMorph and Sketchfab.
